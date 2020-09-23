@@ -1,7 +1,7 @@
 import ez from 'ezdo'
 import './base/reset.css'
 import Home from './pages/index'
-import Router from 'ezdo-router'
+// import Router from 'ezdo-router'
 
 
 // let router = new Router({
