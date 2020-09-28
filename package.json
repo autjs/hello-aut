@@ -10,7 +10,7 @@
   "author": "王晓维",
   "license": "ISC",
   "dependencies": {
-    "ezdo": "latest"
+    "aut.js": "latest"
   },
   "devDependencies": {
     "babel-preset-env": "^1.7.0",

@@ -1,4 +1,4 @@
-import e from 'ezdo'
+import e from 'aut.js'
 import './index.css'
 
 class Home extends e.Node {
@@ -18,9 +18,6 @@ class Home extends e.Node {
             this.add(bar)
 
         }
-
-        // 来这里抄 ezdojs.github.io
-
     }
 }
 
